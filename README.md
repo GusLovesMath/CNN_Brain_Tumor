@@ -1,7 +1,7 @@
 # CNN_Brain_Tumor: Multi-Class Brain Tumor Classification
 
 ## Overview
-This repository contains the code and documentation for a Convolutional Neural Network (CNN) designed to classify brain tumors into multiple categories. The model achieves a high accuracy rate, making it a robust tool for medical diagnostics.
+This repository contains the code and documentation for a Convolutional Neural Network (CNN) designed to classify brain tumors into multiple categories. The model achieves a high accuracy rate, making it a robust tool for medical diagnostics. Model accuracy achieved 99.4%.
 
 ## Files Included
 1. **CNN_Multi_Class_Building_GY.ipynb**: This Jupyter Notebook contains the code for building, training, and evaluating the CNN model.
