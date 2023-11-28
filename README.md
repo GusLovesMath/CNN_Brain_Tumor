@@ -15,7 +15,7 @@ This repository contains the code and documentation for a Convolutional Neural N
 5. **model_2.h5**: The saved model file in HDF5 format. This contains the architecture, weights, and training configuration of the final, optimized CNN model, ready for deployment or further research.
 
 ## Project Details
-- **Project Language:** Python, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib
+- **Project Language:** Python, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib.
 - **Model Accuracy**: 99.4% on a large dataset of MRI brain tumor images.
 - **Categories Classified**: Glioma, Meningioma, No Tumor, and Pituitary.
 - **Key Techniques Used**: Data augmentation, fine-tuning of learning rates with the Adam optimizer.
