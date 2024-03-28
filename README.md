@@ -1,7 +1,7 @@
 # CNN Brain Tumor: Multi-Class Brain Tumor Classification
 
 ## Updated: Tensorflow 2.16 Classification Accuracy 99.6%
-(CNN Classification using Tensorflow 2.16)[https://www.kaggle.com/code/guslovesmath/cnn-tumor-classifying-tensorflow-2-16-99-6]
+[CNN Classification using Tensorflow 2.16](https://www.kaggle.com/code/guslovesmath/cnn-tumor-classifying-tensorflow-2-16-99-6)
 
 ## Overview
 This repository contains the code and documentation for a Convolutional Neural Network (CNN) designed to classify brain tumors into multiple categories, including Glioma, Meningioma, No Tumor, and Pituitary. The model achieves a high accuracy rate of 99.4%, making it a robust tool for medical diagnostics. This project demonstrates how advanced CNN models, with optimized learning rates and early stopping mechanisms, can significantly enhance the accuracy and efficiency of brain tumor diagnosis, leading to improved medical treatment outcomes.
