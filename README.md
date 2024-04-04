@@ -1,7 +1,7 @@
 # CNN Brain Tumor: Multi-Class Brain Tumor Classification
 
 ### Updated: Tensorflow 2.16 Classification Accuracy 99.6%
-View repository: [Github: Brain Tumor Classification using CNN and TensorFlow 2.16(https://github.com/GusLovesMath/BrainTumorClassifier-CNN-TF2.16)
+View repository: [Github: Brain Tumor Classification using CNN and TensorFlow 2.16](https://github.com/GusLovesMath/BrainTumorClassifier-CNN-TF2.16)
 Quick view on kaggle: [Kaggle: CNN Classification using Tensorflow 2.16](https://www.kaggle.com/code/guslovesmath/cnn-tumor-classifying-tensorflow-2-16-99-6)
 
 ## Overview
